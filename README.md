@@ -8,6 +8,9 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
+API ARE TAKEN FROM:- open weather API
+open API Keys are stored in .env file then access to wether.JSX file
+
 Some Pic of the projects
 ![image](https://github.com/user-attachments/assets/dccb2f1b-360f-426e-ae68-d0cf5397899b)
 
