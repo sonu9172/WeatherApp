@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 API ARE TAKEN FROM:- open weather API     -- LINK FOR WEATHER API --- :- https://openweathermap.org/api
 open API Keys are stored in .env file then access to wether.JSX file
 
-live website link :- 
+live website link :- https://weather-app-nu-nine-14.vercel.app/
 
 Some Pic of the projects
 ![image](https://github.com/user-attachments/assets/dccb2f1b-360f-426e-ae68-d0cf5397899b)
